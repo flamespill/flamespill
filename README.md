@@ -3,4 +3,4 @@
 ![](https://komarev.com/ghpvc/?username=flamespill&style=for-the-badge)
 ## Hi there, I'm flamespill 👋
 #### 💬 Message me on Discord: [flamespill](<https://discord.com/users/1018142081878851595>)
-## That's all you currently need to know about me.
+# That's all you currently need to know about me.
