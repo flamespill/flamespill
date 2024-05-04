@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/GWVc5Zx.jpeg)](https://github.com/flamespill)
+![](https://komarev.com/ghpvc/?username=flamespill&style=for-the-badge) <a href="<https://discord.com/users/1018142081878851595>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=flamespill&style=for-the-badge)
 <!--
 **flamespill/flamespill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
