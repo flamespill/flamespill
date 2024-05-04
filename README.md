@@ -2,8 +2,7 @@
 ###
 ![](https://komarev.com/ghpvc/?username=flamespill&style=for-the-badge)
 ## Hi there, im flamespill 👋
-#### Message me on Discord!
-[flamespill](<https://discord.com/users/1018142081878851595>)
+#### Message me on Discord! [flamespill](<https://discord.com/users/1018142081878851595>)
 <!--
 **flamespill/flamespill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
