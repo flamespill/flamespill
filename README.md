@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/GWVc5Zx.jpeg)](https://github.com/flamespill)
 ###
-![](https://komarev.com/ghpvc/?username=flamespill&style=for-the-badge) ##### (most of them are probably from me)
+![](https://komarev.com/ghpvc/?username=flamespill&style=for-the-badge)
 ## Hi there, im flamespill 👋
 ####  💬 Message me on Discord: [flamespill](<https://discord.com/users/1018142081878851595>)
 <!--
